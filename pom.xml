@@ -93,7 +93,7 @@
 							<goal>testCompile</goal>
 						</goals>
 						<configuration>
-							<failOnError>false</failOnError>
+							<failOnError>true</failOnError>
 						</configuration>
 					</execution>
 				</executions>
